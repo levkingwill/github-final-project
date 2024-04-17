@@ -1,5 +1,5 @@
 # github-final-project
-Part of: IBM Full-Stack JavaScript Developer. A simple web application interest calculator.
+Part of: IBM Full-Stack JavaScript Developer.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
