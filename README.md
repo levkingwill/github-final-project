@@ -1,2 +1,10 @@
 # github-final-project
-Part of: IBM Full-Stack JavaScript Developer. A simple web application that is used to do calculations of investments given a principal amount, interest rate and length of investment. 
+Part of: IBM Full-Stack JavaScript Developer. A simple web application interest calculator.
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
